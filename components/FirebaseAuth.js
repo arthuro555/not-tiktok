@@ -23,7 +23,7 @@ const firebaseAuthConfig = {
     },
   ],
   signInSuccessUrl: "/",
-  credentialHelper: "none",
+  credentialHelper: "googleyolo",
   callbacks: {
     // https://github.com/firebase/firebaseui-web#signinsuccesswithauthresultauthresult-redirecturl
     signInSuccessWithAuthResult: () =>
